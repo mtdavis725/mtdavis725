@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maisson Davis
-- 👀 I’m interested in frontend web development and UI/UX design
-- 🌱 I’m currently learning Shopify e-commerce development
+- 👀 I’m interested in frontend web development and data analytics
+- 🌱 I’m currently learning more about the React JS framework
 - 📫 Shoot me a message on my LinkedIn profile https://www.linkedin.com/in/maisson-davis-b9ba5226/
 
 <!---
